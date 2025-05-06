@@ -1,4 +1,4 @@
 # An Overview 
-This repository serves as a comprehensive resource for tracking and maintaining machine learning concepts that i have learned, ranging from fundamental principles to advanced techniques.
-It is designed to act as a structured guide, ensuring that all key learnings are documented and easily accessible for future reference. Whether you are a beginner looking to 
-build a strong foundation or an experienced practitioner seeking to refine your expertise, this repository will provide valuable insights and curated knowledge to support your machine learning journey.
+This repository is a structured collection of machine learning concepts I’ve learned, ranging from the basics to advanced techniques. The content is primarily based on a YouTube playlist of the same name, along with additional videos, refined through my own tweaks and adjustments for better understanding and practical application.
+
+Whether you're just starting out or looking to deepen your ML knowledge, this repo is meant to be a helpful reference throughout your journey.
